@@ -1,0 +1,8 @@
+! S-parameter export from FEKO
+!   Filename:      3cm_width_TX_coil_w_RX_SParameter1.s2p
+!   Creation date: 2024-11-19 11:12:14
+! 
+# Hz S MA R  5.00000E+01
+! 
+!     FREQ          |S11|        <S11       |S21|        <S21       |S12|        <S12       |S22|        <S22
+ 6.7800000E+06  9.2810319E-01 -179.211  1.5309682E-01   93.814  1.5329978E-01   93.814  9.4287710E-01 -171.087
